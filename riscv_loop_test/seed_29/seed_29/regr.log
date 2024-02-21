@@ -1,5 +1,0 @@
-iss : iss.csv
-core : core.csv
-15141 instructions left in trace core
-[FAILED]: 0 matched, 15141 mismatch
-
